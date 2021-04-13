@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/MataHacks/InventorySystem.svg?style=for-the-badge
 [issues-url]: https://github.com/MataHacks/InventorySystem/issues
 [license-shield]: https://img.shields.io/github/license/MataHacks/InventorySystem.svg?style=for-the-badge
-[license-url]: https://github.com/MataHacks/InventorySystem/blob/master/LICENSE.txt
+[license-url]: https://github.com/MataHacks/InventorySystem/blob/master/LICENSE
 
 ## Available Scripts
 
